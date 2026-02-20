@@ -192,8 +192,11 @@ plt.show()
 
 # IDEAL SAMPLING
 
+<img width="866" height="456" alt="image" src="https://github.com/user-attachments/assets/b9794ef4-e649-4aa3-aa86-c433cee20009" />
 
-<img width="866" height="456" alt="image" src="https://github.com/user-attachments/assets/065e227d-2ef9-4475-8fee-8aa666de052a" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/fec67b3d-4805-406a-a124-afb9f8bfb3aa" />
+
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/a2905b2a-ea82-480e-8eed-d3e9ac16287d" />
 
 
 # NATURAL SAMPLING
